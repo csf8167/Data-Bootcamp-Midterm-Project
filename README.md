@@ -1,11 +1,12 @@
 # Data-Bootcamp-Midterm-Project
 by Christina, Kavya, and Vidhi
 
-**Executive Summary**
+Executive Summary
 
 Task overview: In this assignment, we analysed demographic and financial indicators to identify patterns, trends and key indicators of what sets apart franchise and standalone films. 
 
 Below are the names of the files, to simplify navigation:
+
 Data Bootcamp Midterm Project.ipynb - main google collab notebook containing the code, dataframes, graphs and preliminary analysis
 Data Bootcamp Midterm SP 26.pdf - document containing a writeup summary of the findings and an analysis of each metric considered
 
