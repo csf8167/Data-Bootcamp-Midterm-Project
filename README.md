@@ -1,7 +1,7 @@
 # Data-Bootcamp-Midterm-Project
 by Christina, Kavya, and Vidhi
 
-Executive Summary
+**Executive Summary**
 
 Task overview: In this assignment, we analysed demographic and financial indicators to identify patterns, trends and key indicators of what sets apart franchise and standalone films. 
 
