@@ -19,10 +19,16 @@ Key findings:
 5. Revenue was most strongly connected to budget, vote count, and popularity. The correlation analysis showed that higher-budget and more popular films tended to earn more revenue, while runtime had only a weak relationship with success. 
 
 Technology used:
+
 Python 3.12
+
 Seaborn (for visualisations)
+
 Pandas (for data)
+
 Google collab notebook
+
 Github
+
 Google docs
 
