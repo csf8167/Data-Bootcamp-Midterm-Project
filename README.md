@@ -18,6 +18,19 @@ Key findings:
 4. Franchise success was stronger in most countries, but the size of the gap depended on location. For example, franchise films outperformed standalone films by a lot in places like Australia and the UK, while the difference was much smaller in France. This suggests geography matters when predicting movie performance.
 5. Revenue was most strongly connected to budget, vote count, and popularity. The correlation analysis showed that higher-budget and more popular films tended to earn more revenue, while runtime had only a weak relationship with success. 
 
+Steps: 
+
+Data Cleaning
+
+Pulling into data frame 
+
+Calculating additional values / columns
+
+Main questions we asked (tying all points of analysis together) 
+
+Franchises vs. standalone- which one to pick and why 
+
+
 Technology used:
 
 Python 3.12
